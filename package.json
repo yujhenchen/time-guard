@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
-    "package": "plasmo package"
+    "package": "plasmo package",
+    "debug": "plasmo dev --verbose"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
